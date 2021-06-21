@@ -1,12 +1,12 @@
-# Big Data Challenge - Satria Data 2020
+# Erwin Tugas Akhir
 
-Project team **Catatan Cakrawala** pada lomba `Big Data Challenge - Satria Data 2020`
+
 
 ### Task
 
 Memprediksi Hoax dari gambar dan text (`Binary Classification`).
 
-### [Notebooks](https://github.com/Hyuto/BDC-Satria-Data/tree/master/Notebooks)
+### [Notebooks](https://github.com/ravanargha/erwin/tree/master/Notebooks)
 
 1. `BDC - EfficientNetB7.ipynb`
 2. `BDC - Main Notebook.ipynb`
@@ -14,11 +14,11 @@ Memprediksi Hoax dari gambar dan text (`Binary Classification`).
 ### Tambahan
 | Keterangan          | Laman Kontent |
 |   -------------     |:-------------:| 
-| Website sumber data | [turnbackhoax.id](http://turnbackhoax.id/)                  |
-| Kaggle Data         | [disini](https://www.kaggle.com/wahyusetianto/data-bdc)     |
-| Model               | [disini](https://www.kaggle.com/pencarikebahagiaan/modelku) |
+| Website sumber data | [turnbackhoax.id](http://turnbackhoax.id/)|
+| Kaggle Data         |                                           |
+| Model               |                                           |
 
-## [Preprocess Data](https://github.com/Hyuto/BDC-Satria-Data/tree/master/Preprocess%20code)
+## [Preprocess Data](https://github.com/ravanargha/erwin/tree/master/Preprocess%20code)
 
 Preprocessing data.
 
@@ -147,4 +147,3 @@ Membenarkan kata - kata yang misstype atau typo dengan cara membuat vocabulary d
 4. Model `Bert` yang di gunakan adalah [cahya/bert-base-indonesian-522M](https://huggingface.co/cahya/bert-base-indonesian-522M).
 5. Dari model model yang ada bert dapat mengklasifikasikan hoax lebih baik dari model - model lainnya namun tetap memiliki kesulitan dalam mengenali kelas `0`.
 
- © Catatan Cakrawala 2020
